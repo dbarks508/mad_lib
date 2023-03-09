@@ -1,0 +1,37 @@
+#wrapper{
+	width: 75%;
+	padding: 10px;
+	background-color: #82b74b;
+	margin: auto auto;
+	height: 100vh;
+} 
+#sentanceContainer{
+	width: 50%;
+	padding: 10px;
+	background-color: #c1946a;
+	margin: auto auto;
+	height: 25vh;
+}
+#madLibContiner{
+	width: 50%;
+	padding: 10px;
+	background-color: #3e4444;
+	margin: auto auto;
+	height: 50vh;
+}
+#madText{
+	color: white;
+}
+h1{
+	font-family: Papyrus;
+	text-align: center;
+	font-size: 30px;
+}
+p{
+	font-family: Monaco;
+	font-size: 20px;
+}
+span{
+	font-family: Lucida Handwriting;
+	font-size: 17px;
+}
